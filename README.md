@@ -10,6 +10,11 @@ In order to build a linear model systematic feature engineering was performed us
 
 ![alt text](https://github.com/mkoeppel/Bicycle_Ridge/blob/main/bicycle_demand.png)
 
+
+
+![alt text](https://github.com/mkoeppel/Bicycle_Ridge/blob/main/Performance_different_Regressors.png)
+
+
 While the jupyter notebook goes through the process step by step, the python script just outputs the relevant results as plots.
 
 The selection of Regressors to test was inspired from this excellent article by Q. Lanners
