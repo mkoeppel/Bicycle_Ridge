@@ -21,3 +21,6 @@ The selection of Regressors to test was inspired from this excellent article by 
 https://towardsdatascience.com/choosing-a-scikit-learn-linear-regression-algorithm-dd96b48105f5
 
 
+## to do:
+interactive visualization with plotly/dash
+automate feature selection
