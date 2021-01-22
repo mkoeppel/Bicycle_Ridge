@@ -23,5 +23,5 @@ https://towardsdatascience.com/choosing-a-scikit-learn-linear-regression-algorit
 
 
 ## to do:
-~~interactive visualization with plotly/dash~~ 
+~~interactive visualization with plotly/dash~~ \
 automate feature selection
