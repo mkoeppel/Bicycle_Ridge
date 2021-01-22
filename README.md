@@ -8,20 +8,20 @@ Using Kaggles Capital Bike Share dataset from Washington D.C. (which can be foun
 
 In order to build a linear model systematic feature engineering was performed using datetime and weather information. Engineered features are processed through a sklearn-pipeline, which subsequently included Kfold cross-validation. Testing different regressors resulted in the usage of RidgeRegression, as it showed best performance with the given features, but also showed the highest fitting speed, compared to all similarily well performing regressors.
 
-![alt text](https://github.com/mkoeppel/Bicycle_Ridge/blob/main/bicycle_demand.png)
 
-
-Overview about dashboard
+Overview about dashboard: 
 
 ![alt text](https://github.com/mkoeppel/Bicycle_Ridge/blob/main/bicycle_ridge.gif)
 
 
-The jupyter notebook goes through the process step by step, also generating two additional files necessary for running the dashboard.
+The jupyter notebook goes through the process step by step, also generating two additional files necessary for running the dashboard and giving some static overviwe about model performances:
+
+![alt text](https://github.com/mkoeppel/Bicycle_Ridge/blob/main/bicycle_demand.png)
 
 The selection of Regressors to test was inspired from this excellent article by Q. Lanners
 https://towardsdatascience.com/choosing-a-scikit-learn-linear-regression-algorithm-dd96b48105f5
 
 
 ## to do:
-interactive visualization with plotly/dash
+~~interactive visualization with plotly/dash~~ 
 automate feature selection
