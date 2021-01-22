@@ -8,9 +8,9 @@ Using Kaggles Capital Bike Share dataset from Washington D.C. (which can be foun
 
 In order to build a linear model systematic feature engineering was performed using datetime and weather information. Engineered features are processed through a sklearn-pipeline, which subsequently included Kfold cross-validation. Testing different regressors resulted in the usage of RidgeRegression, as it showed best performance with the given features, but also showed the highest fitting speed, compared to all similarily well performing regressors:
 
-## r2: 82.6% \
-## RMSE: 54.9 \
-## Mean Fit Time: 0.09s
+#### r2: 82.6% 
+#### RMSE: 54.9
+#### Mean Fit Time: 0.09s
 
 
 Overview about dashboard: 
