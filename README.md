@@ -11,11 +11,12 @@ In order to build a linear model systematic feature engineering was performed us
 ![alt text](https://github.com/mkoeppel/Bicycle_Ridge/blob/main/bicycle_demand.png)
 
 
+Overview about dashboard
 
-![alt text](https://github.com/mkoeppel/Bicycle_Ridge/blob/main/Performance_different_Regressors.png)
+![alt text](https://github.com/mkoeppel/Bicycle_Ridge/blob/main/bicycle_ridge.gif)
 
 
-While the jupyter notebook goes through the process step by step, the python script just outputs the relevant results as plots.
+The jupyter notebook goes through the process step by step, also generating two additional files necessary for running the dashboard.
 
 The selection of Regressors to test was inspired from this excellent article by Q. Lanners
 https://towardsdatascience.com/choosing-a-scikit-learn-linear-regression-algorithm-dd96b48105f5
