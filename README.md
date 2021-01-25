@@ -15,7 +15,7 @@ In order to build a linear model systematic feature engineering was performed us
 
 Overview about dashboard: 
 
-![alt text](https://github.com/mkoeppel/Bicycle_Ridge/blob/main/bicycle_ridge.gif)
+![alt text](https://github.com/mkoeppel/Bicycle_Ridge/blob/main/bicycle_ridge_dash.gif)
 
 
 The jupyter notebook goes through the process step by step, also generating two additional files necessary for running the dashboard and giving some static overviwe about model performances:
