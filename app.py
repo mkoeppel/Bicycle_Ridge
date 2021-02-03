@@ -25,7 +25,6 @@ X = get_Xtrain_short()
 
 FEATURE_RESULTS = pd.read_csv("./data/feature_results.csv")
 REGR_COMP = pd.read_csv("./data/regr_comp_results.csv")
-GRID_RIDGE = pd.read_csv("data/gs_ridge_results.csv")
 
 ridge_model = build_ridge_model()
 template = "plotly_white"
