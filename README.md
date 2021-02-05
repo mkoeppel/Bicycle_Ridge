@@ -1,6 +1,6 @@
 # LinearRegression_CapitalBikeShare
 
-This project is about the data exploration from Kaggles Capital Bike Share dataset from Washington D.C., followed by the the evaluation of various Linear Regressors from the Scikit-learn universe. Key results are displayed in an interactive dashboard.
+This project is about the data exploration from Kaggles Capital Bike Share dataset from Washington D.C., followed by the the evaluation of various Linear Regressors from the Scikit-learn universe. Key results are displayed in an interactive dashboard (this started as a SPICED bootcamp project and was later on extended by additional regressors and the dashboard).
 
 ### tech used:
 
